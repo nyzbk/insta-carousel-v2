@@ -1,0 +1,5 @@
+{
+  "name": "Instagram Carousel Generator",
+  "description": "An application to generate engaging Instagram carousel posts using AI. Enter a topic, and the app will create a series of visually appealing slides with a hook title and informative content.",
+  "requestFramePermissions": []
+}
